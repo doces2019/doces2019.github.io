@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Material de Apoio - Afiliados",
-    "currentPage": "afiliados-milionarios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -289,7 +289,7 @@
         }
       ]
     },
-    "afiliados-milionarios.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Material de APOIO!!",
